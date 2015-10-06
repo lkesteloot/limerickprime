@@ -1,0 +1,1 @@
+javac LimerickPrime.java && java LimerickPrime
